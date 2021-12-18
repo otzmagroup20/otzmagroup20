@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Otzma Group technology services </h1>
 
-<!--
-**otzmagroup20/otzmagroup20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+* Thanks for landing in [Otzma Group technology](https://otzma-group.co.il). We offer SaaS to serveral organisations with solving complex problems that our clients face in generating blueprints and quotation in air conditioning businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+
+* This system is developed and managed by our technology partner [Cradoapps](https://cradoapps.com)
+ 
+ 
+ 
+ 
+
+Last Edited on: 31/08/2020
